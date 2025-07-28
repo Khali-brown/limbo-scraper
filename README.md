@@ -1,6 +1,6 @@
 # Limbo Scrape
 
-Smart Fetch Scribe is a tool designed to simplify and enhance data fetching in JavaScript/TypeScript projects. It provides utilities for efficient API requests, error handling, and caching.
+Limbo Scraper is a tool designed to simplify and enhance data fetching in JavaScript/TypeScript projects. It provides utilities for efficient API requests, error handling, and caching.
 
 ## Features
 
